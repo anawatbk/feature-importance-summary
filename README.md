@@ -15,5 +15,5 @@
 - Automatic Feature Selection
 - Variance and empirical p-values for feature importances
 </br></br>
-###  Note
-featimp.py include all of algorithm implements and support code.
+### Author  Note
+code/featimp.py includes all of algorithm implements and support code for the report.
