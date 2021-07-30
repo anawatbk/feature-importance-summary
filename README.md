@@ -2,7 +2,7 @@
 Frequently, we think of the only focus of machine learning models is to optimize model performance on selected metrics. However, Understanding how a model works and how features/predictors contribute to its prediction is just as importance.<br>
 In this project, I implemented various feature importance techniques and its application in python and made the summary document in jupyter notebook.<br>
 
-Please check out the report **[here](https://github.com/anawatbk/feature-importance-summary/blob/master/code/featimp.ipynb)**
+Please check out the summary **[here](https://github.com/anawatbk/feature-importance-summary/blob/master/code/featimp.ipynb)**
 
 
 
@@ -22,5 +22,5 @@ Please check out the report **[here](https://github.com/anawatbk/feature-importa
 - Automatic Feature Selection
 - Variance and empirical p-values for feature importances
 </br></br>
-### Author  Note
-code/featimp.py includes all of algorithm implements and support code for the report.
+#### Author's  Note
+code/featimp.py includes all of algorithm and support code for the report.
