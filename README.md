@@ -18,7 +18,7 @@ Please check out the summary **[here](https://github.com/anawatbk/feature-import
   - Calculate Feature Importance by working directly from the data (model-free)
     - Spearman's rank correlation coefficient 
     - mRMR
-- Importance Strategies Comparison
+- Feature Importance Algorithms Comparison
     - RF vs Permutation vs SHAP vs Drop vs mRMR
 - Automatic Feature Selection
 - Variance and empirical p-values for feature importances
