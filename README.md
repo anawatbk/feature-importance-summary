@@ -19,6 +19,7 @@ Please check out the summary **[here](https://github.com/anawatbk/feature-import
     - Spearman's rank correlation coefficient 
     - mRMR
 - Importance Strategies Comparison
+    - RF vs Permutation vs SHAP vs Drop vs mRMR
 - Automatic Feature Selection
 - Variance and empirical p-values for feature importances
 </br></br>
