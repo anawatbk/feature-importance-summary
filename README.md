@@ -22,6 +22,11 @@ Please check out the summary **[here](https://github.com/anawatbk/feature-import
     - RF vs Permutation vs SHAP vs Drop vs mRMR
 - Automatic Feature Selection
 - Variance and empirical p-values for feature importances
-</br></br>
+</br>
+### Work Samples
+![](images/image1.png?raw=true)
+![](images/image2.png?raw=true)
+
+
 #### Author's  Note
 code/featimp.py includes all of algorithm and support code for the report.
