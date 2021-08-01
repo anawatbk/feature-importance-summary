@@ -24,7 +24,7 @@ Please check out the summary **[here](https://github.com/anawatbk/feature-import
 - Variance and empirical p-values for feature importances
 </br>
 ### Work Samples
-![](images/image1.png?raw=true)
+<br>![](images/image1.png?raw=true)<br>
 ![](images/image2.png?raw=true)
 
 
