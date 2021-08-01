@@ -22,8 +22,7 @@ Please check out the summary **[here](https://github.com/anawatbk/feature-import
     - RF vs Permutation vs SHAP vs Drop vs mRMR
 - Automatic Feature Selection
 - Variance and empirical p-values for feature importances
-</br>
-### Work Samples
+
 <br>![](images/image1.png?raw=true)<br>
 ![](images/image2.png?raw=true)
 
